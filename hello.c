@@ -6,6 +6,3 @@
     printf("O resultado é: %d", ret);
     return 0;
   }
-
-  de novo os bugs voltando bzzzzz bzzzzzzz
-  
